@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+hmmlearn
+statsmodels
+streamlit
+plotly
+schedule
+yfinance
+streamlit-autorefresh

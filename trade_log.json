@@ -1,0 +1,730 @@
+[
+  {
+    "time": "2025-12-26 12:14:29",
+    "action": "SELL",
+    "stock": "TITAN",
+    "qty": 11,
+    "price": 3992.0,
+    "pnl": 909.699462890625
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "CANBK",
+    "qty": 311,
+    "price": 150.07000732421875,
+    "pnl": 124.40284729003906
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "VEDL",
+    "qty": 78,
+    "price": 600.9500122070312,
+    "pnl": 218.3990478515625
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "SHRIRAMFIN",
+    "qty": 47,
+    "price": 960.25,
+    "pnl": -632.1505737304688
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "HINDALCO",
+    "qty": 53,
+    "price": 872.9000244140625,
+    "pnl": 447.85064697265625
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "MARUTI",
+    "qty": 2,
+    "price": 16596.0,
+    "pnl": -214.0
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "EICHERMOT",
+    "qty": 6,
+    "price": 7324.0,
+    "pnl": 69.0
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "SBILIFE",
+    "qty": 23,
+    "price": 2019.0999755859375,
+    "pnl": -144.901123046875
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "SBIN",
+    "qty": 48,
+    "price": 966.2999877929688,
+    "pnl": -127.201171875
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "RELIANCE",
+    "qty": 29,
+    "price": 1559.199951171875,
+    "pnl": 29.0
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "LT",
+    "qty": 11,
+    "price": 4047.300048828125,
+    "pnl": -69.300537109375
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "UPL",
+    "qty": 30,
+    "price": 774.0499877929688,
+    "pnl": 40.499267578125
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "BHARTIARTL",
+    "qty": 11,
+    "price": 2105.39990234375,
+    "pnl": -201.300537109375
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "HDFCBANK",
+    "qty": 23,
+    "price": 992.0999755859375,
+    "pnl": -117.30084228515625
+  },
+  {
+    "time": "2025-12-26 12:15:55",
+    "action": "SELL",
+    "stock": "BANKBARODA",
+    "qty": 82,
+    "price": 288.20001220703125,
+    "pnl": -192.697998046875
+  },
+  {
+    "time": "2025-12-26 12:15:56",
+    "action": "SELL",
+    "stock": "KOTAKBANK",
+    "qty": 12,
+    "price": 2164.199951171875,
+    "pnl": -8.400585937501091
+  },
+  {
+    "time": "2025-12-26 12:15:56",
+    "action": "SELL",
+    "stock": "TORNTPHARM",
+    "qty": 6,
+    "price": 3816.60009765625,
+    "pnl": -3.5994140624989086
+  },
+  {
+    "time": "2025-12-26 12:15:56",
+    "action": "SELL",
+    "stock": "COALINDIA",
+    "qty": 61,
+    "price": 402.1499938964844,
+    "pnl": -70.15037231445382
+  },
+  {
+    "time": "2025-12-26 12:15:56",
+    "action": "SELL",
+    "stock": "ICICIPRULI",
+    "qty": 35,
+    "price": 649.9500122070312,
+    "pnl": 42.00042724609375
+  },
+  {
+    "time": "2025-12-26 14:15:32",
+    "action": "SELL",
+    "stock": "EICHERMOT",
+    "qty": 9,
+    "price": 7324.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:32",
+    "action": "SELL",
+    "stock": "VEDL",
+    "qty": 103,
+    "price": 600.9500122070312,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:32",
+    "action": "SELL",
+    "stock": "UPL",
+    "qty": 75,
+    "price": 774.0499877929688,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:32",
+    "action": "SELL",
+    "stock": "HINDALCO",
+    "qty": 62,
+    "price": 872.9000244140625,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:32",
+    "action": "SELL",
+    "stock": "TITAN",
+    "qty": 12,
+    "price": 3992.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:33",
+    "action": "SELL",
+    "stock": "RELIANCE",
+    "qty": 30,
+    "price": 1559.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:33",
+    "action": "SELL",
+    "stock": "KOTAKBANK",
+    "qty": 20,
+    "price": 2164.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-26 14:15:33",
+    "action": "SELL",
+    "stock": "DRREDDY",
+    "qty": 32,
+    "price": 1269.300048828125,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:24:27",
+    "action": "SELL",
+    "stock": "M&MFIN",
+    "qty": 121,
+    "price": 394.1499938964844,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:24:27",
+    "action": "SELL",
+    "stock": "MCX",
+    "qty": 5,
+    "price": 11052.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:25:37",
+    "action": "BUY",
+    "stock": "MCX",
+    "qty": 2,
+    "price": 11052.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "LAURUSLABS",
+    "qty": 61,
+    "price": 1085.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "EICHERMOT",
+    "qty": 7,
+    "price": 7324.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "NATIONALUM",
+    "qty": 179,
+    "price": 306.8500061035156,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "KARURVYSYA",
+    "qty": 195,
+    "price": 262.80999755859375,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "FEDERALBNK",
+    "qty": 171,
+    "price": 262.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "HINDCOPPER",
+    "qty": 88,
+    "price": 475.6000061035156,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "VEDL",
+    "qty": 65,
+    "price": 600.9500122070312,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "UPL",
+    "qty": 47,
+    "price": 774.0499877929688,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "IDFCFIRSTB",
+    "qty": 400,
+    "price": 85.12000274658203,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "RAMCOCEM",
+    "qty": 29,
+    "price": 1063.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "HINDALCO",
+    "qty": 34,
+    "price": 872.9000244140625,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "TITAN",
+    "qty": 6,
+    "price": 3992.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "RELIANCE",
+    "qty": 16,
+    "price": 1559.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 03:26:03",
+    "action": "SELL",
+    "stock": "MCX",
+    "qty": 2,
+    "price": 11052.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "LAURUSLABS",
+    "qty": 61,
+    "price": 1085.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "MCX",
+    "qty": 5,
+    "price": 11052.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "EICHERMOT",
+    "qty": 7,
+    "price": 7324.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "NATIONALUM",
+    "qty": 179,
+    "price": 306.8500061035156,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "KARURVYSYA",
+    "qty": 195,
+    "price": 262.80999755859375,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "M&MFIN",
+    "qty": 121,
+    "price": 394.1499938964844,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "FEDERALBNK",
+    "qty": 171,
+    "price": 262.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "HINDCOPPER",
+    "qty": 88,
+    "price": 475.6000061035156,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "VEDL",
+    "qty": 65,
+    "price": 600.9500122070312,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "UPL",
+    "qty": 47,
+    "price": 774.0499877929688,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "IDFCFIRSTB",
+    "qty": 400,
+    "price": 85.12000274658203,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:22",
+    "action": "BUY",
+    "stock": "RAMCOCEM",
+    "qty": 29,
+    "price": 1063.199951171875,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:23",
+    "action": "BUY",
+    "stock": "HINDALCO",
+    "qty": 34,
+    "price": 872.9000244140625,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:23",
+    "action": "BUY",
+    "stock": "TITAN",
+    "qty": 6,
+    "price": 3992.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:51:23",
+    "action": "BUY",
+    "stock": "RELIANCE",
+    "qty": 16,
+    "price": 1559.199951171875,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 12:52:09",
+    "action": "SELL",
+    "stock": "LAURUSLABS",
+    "qty": 61,
+    "price": 1085.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "MCX",
+    "qty": 5,
+    "price": 11052.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "EICHERMOT",
+    "qty": 7,
+    "price": 7324.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "NATIONALUM",
+    "qty": 179,
+    "price": 306.8500061035156,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "KARURVYSYA",
+    "qty": 195,
+    "price": 262.80999755859375,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "M&MFIN",
+    "qty": 121,
+    "price": 394.1499938964844,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "FEDERALBNK",
+    "qty": 171,
+    "price": 262.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "HINDCOPPER",
+    "qty": 88,
+    "price": 475.6000061035156,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "VEDL",
+    "qty": 65,
+    "price": 600.9500122070312,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "UPL",
+    "qty": 47,
+    "price": 774.0499877929688,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "IDFCFIRSTB",
+    "qty": 400,
+    "price": 85.12000274658203,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "RAMCOCEM",
+    "qty": 29,
+    "price": 1063.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "HINDALCO",
+    "qty": 34,
+    "price": 872.9000244140625,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "TITAN",
+    "qty": 6,
+    "price": 3992.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 12:52:10",
+    "action": "SELL",
+    "stock": "RELIANCE",
+    "qty": 16,
+    "price": 1559.199951171875,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 13:08:19",
+    "action": "BUY",
+    "stock": "MCX",
+    "qty": 6,
+    "price": 11052.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:25:53",
+    "action": "SELL",
+    "stock": "MCX",
+    "qty": 6,
+    "price": 11052.0,
+    "pnl": 0.0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "LAURUSLABS",
+    "qty": 61,
+    "price": 1085.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "MCX",
+    "qty": 5,
+    "price": 11052.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "EICHERMOT",
+    "qty": 7,
+    "price": 7324.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "NATIONALUM",
+    "qty": 179,
+    "price": 306.8500061035156,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "KARURVYSYA",
+    "qty": 195,
+    "price": 262.80999755859375,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "M&MFIN",
+    "qty": 121,
+    "price": 394.1499938964844,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "FEDERALBNK",
+    "qty": 171,
+    "price": 262.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "HINDCOPPER",
+    "qty": 88,
+    "price": 475.6000061035156,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "VEDL",
+    "qty": 65,
+    "price": 600.9500122070312,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "UPL",
+    "qty": 47,
+    "price": 774.0499877929688,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "IDFCFIRSTB",
+    "qty": 400,
+    "price": 85.12000274658203,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "RAMCOCEM",
+    "qty": 29,
+    "price": 1063.199951171875,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "HINDALCO",
+    "qty": 34,
+    "price": 872.9000244140625,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "TITAN",
+    "qty": 6,
+    "price": 3992.0,
+    "pnl": 0
+  },
+  {
+    "time": "2025-12-27 13:26:56",
+    "action": "BUY",
+    "stock": "RELIANCE",
+    "qty": 16,
+    "price": 1559.199951171875,
+    "pnl": 0
+  }
+]
