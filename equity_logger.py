@@ -2,19 +2,31 @@ import json
 import os
 from datetime import datetime
 
-EQUITY_FILE = "equity_curve.json"
+FILE = "equity_curve.json"
+
 
 def log_equity(value):
+
     data = []
 
-    if os.path.exists(EQUITY_FILE):
-        with open(EQUITY_FILE, "r") as f:
-            data = json.load(f)
+    # load existing equity log safely
+    if os.path.exists(FILE):
 
+        try:
+            with open(FILE, "r") as f:
+                content = f.read().strip()
+                if content:
+                    data = json.loads(content)
+        except Exception:
+            # corrupted or partially written file
+            data = []
+
+    # append new record
     data.append({
         "time": datetime.now().isoformat(),
-        "value": value
+        "value": float(value)
     })
 
-    with open(EQUITY_FILE, "w") as f:
+    # write file safely
+    with open(FILE, "w") as f:
         json.dump(data, f, indent=2)
