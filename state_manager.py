@@ -4,20 +4,20 @@ import os
 STATE_FILE = "state.json"
 
 def save_state(trader):
-    data = {
+    state = {
         "cash": trader.cash,
-        "positions": trader.positions
+        "positions": trader.positions  # MUST save empty {}
     }
     with open(STATE_FILE, "w") as f:
-        json.dump(data, f)
+        json.dump(state, f)
 
 
 def load_state(trader):
     if not os.path.exists(STATE_FILE):
         return
 
-    with open(STATE_FILE, "r") as f:
-        data = json.load(f)
+    with open(STATE_FILE) as f:
+        state = json.load(f)
 
-    trader.cash = data.get("cash", trader.cash)
-    trader.positions = data.get("positions", trader.positions)
+    trader.cash = state.get("cash", trader.cash)
+    trader.positions = state.get("positions", {})  # MUST REPLACE, not update
