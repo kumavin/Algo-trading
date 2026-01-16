@@ -94,7 +94,6 @@ def cache_indices():
     return get_all_indices()
 
 
-@st.cache_data
 def cache_trade_stats():
     trades = load_trades()
     return compute_trade_stats(trades)
