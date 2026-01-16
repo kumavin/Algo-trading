@@ -49,7 +49,11 @@ st.title("📊 Auto Buy & Live PnL — Trading Cockpit")
 # ==========================================================
 if "trader" not in st.session_state:
     st.session_state.trader = PaperTrader()
+    st.session_state.state_loaded = False
+
+if not st.session_state.state_loaded:
     load_state(st.session_state.trader)
+    st.session_state.state_loaded = True
 
 trader = st.session_state.trader
 
@@ -373,7 +377,9 @@ if ranked:
                 log_trade("BUY", s, qty, price, 0)
 
             save_state(trader)
+            st.session_state.trader = trader
             st.success("Auto-buy executed")
+            st.rerun()
 
     # MANUAL BUY
     with buy_col2:
@@ -398,7 +404,9 @@ if ranked:
                 log_trade("BUY", s, qty, price, 0)
 
             save_state(trader)
+            st.session_state.trader = trader
             st.success("Selected stocks bought")
+            st.rerun()
 
 else:
     st.info("Run screening to see candidates")
@@ -483,7 +491,9 @@ if open_stocks:
                 log_trade("SELL", s, qty, exit_price, pnl)
 
             save_state(trader)
+            st.session_state.trader = trader
             st.success("Selected positions exited")
+            st.rerun()
 
     with col_b:
         if st.button("🔥 Exit ALL Positions"):
@@ -498,7 +508,9 @@ if open_stocks:
                 log_trade("SELL", s, qty, exit_price, pnl)
 
             save_state(trader)
+            st.session_state.trader = trader
             st.error("All positions exited")
+            st.rerun()
 
 else:
     st.info("No open positions")
